@@ -4,7 +4,9 @@ Public transport data gateway to Živý Obraz
 ESP32 utility to extract Prague public transport departures and use it in your projects, like "zivy obraz" www.zivyobraz.eu
 The rest is in Czech, as it is local content, specific to Prague transport system.
 
-Gateway slouží k načítání dat o odjezdech MHD v PRaze a k jejich přenosu do software Živý obraz (www.zivyobraz.eu)
+
+
+Gateway slouží k načítání dat o odjezdech MHD v Praze a k jejich přenosu do software Živý obraz (www.zivyobraz.eu)
 
 Tato verze je vybavena Wifimanagerem pro nastavení konektivity a webovým formulářem pro nastavení přenosu dat. Je tedy dostupná i těm, kdo neprogramují. Vezmete ESP32 hardware, nahrajete jednoduchou utilitou SW do hardware a ostatní nastavíte přes browser. Kdo zprovozní HW pro Živý Obraz, zvládne i tohle!
 
