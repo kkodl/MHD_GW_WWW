@@ -14,6 +14,9 @@ Funguje i pro příměstské vlakové spoje.
 ## Rychlý start:
 - Přečtěte si dokumentaci, tam to všechno je (...já vím :)
 
+## Pokud upgradujete:
+ - Doporučuju smazat komplet flash paměť v ESP32. Pro Arduino IDE je na to plugin, espflash tool to dělá sám
+
 
   (nejsem programátor, tak buďte shovívaví)
 
