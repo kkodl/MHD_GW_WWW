@@ -18,7 +18,5 @@ Funguje i pro příměstské vlakové spoje.
  - Doporučuju smazat komplet flash paměť v ESP32. Pro Arduino IDE je na to plugin, espflash tool to dělá sám
 
 
-  (nejsem programátor, tak buďte shovívaví)
-
   # Ostatní města?
   Stále trvá - nevím. Snažil jsem se najít Brno a Plzeň a pak jsem toho nechal, podle dostupných aplikací ta data existují, ale jsou za zdí. Pokud někdo najdete někde něco, ozvěte se, rád budu spolupracovat. Pokud něco objevím, bude to tady.
